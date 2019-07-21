@@ -23,7 +23,7 @@ There are 2 versions (both use same wheel stl file):
 - encoder_housing , uses no ball bearing 
   - encoder_housing_no_bearing , uses 15x28x7 ball bearing
 
-both model also need 2 M2 5mm screws
+both models also need 2 M2 5mm screws
  
 
 <img src="https://user-images.githubusercontent.com/30388414/61593399-49756d80-abdf-11e9-98f9-847e967b6eda.jpg" width="400"> <img src="https://user-images.githubusercontent.com/30388414/61593393-39f62480-abdf-11e9-83a3-a46f03c20ad5.jpg" width="400">
