@@ -15,7 +15,7 @@
 
 
 
-## Rotary Magnetic Holder ,used to test and evaluate yourn sensor
+## Rotary Magnetic Holder ,used to test and evaluate your sensor
 
 STL folder contains files for encoder testing jig.
 Design is compatible only with these test [boards](https://www.aliexpress.com/item/32978099591.html?spm=a2g0s.9042311.0.0.33344c4dNwWwRd)
